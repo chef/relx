@@ -1,3 +1,5 @@
+_The chef/relx fork of this project is used internally by Chef Software, Inc. in one specific case and is not meant to be used by anybody for any other reason. Please use [erlware/relx](https://github.com/erlware/relx) instead._
+
 [![Build Status](https://travis-ci.org/erlware/relx.png?branch=master)](https://travis-ci.org/erlware/relx)
 
 Relx
