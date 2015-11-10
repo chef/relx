@@ -25,7 +25,7 @@ IsRebar3 = (list_to_integer(Maj) >= 3),
 
 
 Rebar2Deps = [
-              {cf, ".*", {git, "https://github.com/project-fifo/cf", {tag, "0.2.0"}}},
+              {cf, ".*", {git, "https://github.com/project-fifo/cf", {tag, "0.1.2"}}},
               {rebar_vsn_plugin, ".*", {git, "https://github.com/erlware/rebar_vsn_plugin.git", {branch, "master"}}},
               {neotoma, ".*", {git, "https://github.com/seancribbs/neotoma.git", {branch, "master"}}},
               {erlware_commons, ".*", {git, "https://github.com/erlware/erlware_commons.git", {branch, "master"}}},
